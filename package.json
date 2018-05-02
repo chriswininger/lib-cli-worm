@@ -1,0 +1,27 @@
+{
+  "name": "lib-cli-worm",
+  "version": "0.0.1",
+  "description": "a library to support epub readers such as cli-worm",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epub",
+    "e-reader",
+    "ebooks",
+    "cli",
+    "worm",
+    "cli-worm",
+    "library",
+    "util"
+  ],
+  "author": "Chris Wininger",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "log4js": "^2.5.3",
+    "unzip": "^0.1.11",
+    "xml-parser": "^1.2.1"
+  }
+}

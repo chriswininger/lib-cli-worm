@@ -1,0 +1,9 @@
+currentBook
+node_modules
+mimetype
+.DS_STORE
+.idea
+*.log
+.snapcraft
+tests/*
+*.sqlite
