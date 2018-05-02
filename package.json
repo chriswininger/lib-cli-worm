@@ -17,7 +17,8 @@
     "util"
   ],
   "author": "Chris Wininger",
-  "license": "ISC",
+  "repository": "chriswininger/lib-cli-worm",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^5.0.1",
     "log4js": "^2.5.3",
